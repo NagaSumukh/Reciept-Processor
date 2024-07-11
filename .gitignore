@@ -28,10 +28,6 @@ Thumbs.db
 dist/
 build/
 
-# Docker files
-docker-compose.yml
-Dockerfile
-
 # Coverage directory used by tools like Jest
 coverage/
 
